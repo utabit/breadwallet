@@ -3,6 +3,18 @@
 
 [![download](/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)](https://itunes.apple.com/app/utabitwallet/id000000000)
 
+### What is Utabit?
+
+Utabit is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Utabit uses peer-to-peer technology to operate
+with no central authority: managing transactions and issuing money are carried
+out collectively by the network. Utabit Core is the name of open source
+software which enables the use of this currency.
+
+For more information, as well as an immediately useable, binary version of
+the Utabit Core software, see http://utabit.com/#download, or read the
+[original whitepaper](http://utabit.com/?page_id=6091).
+
 ## utabit done right
 
 The simplest and most secure utabit wallet on any platform
